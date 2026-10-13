@@ -1,0 +1,15 @@
+[project]
+name = "ri"
+version = "0.1.0"
+description = "Information Retrieval"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gensim>=4.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "pandas",
+    "rank-bm25",
+    "scikit-learn",
+    "spacy",
+]

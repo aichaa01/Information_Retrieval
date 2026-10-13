@@ -1,0 +1,7 @@
+#Path pour gérer les chemins ; 
+#Counter pour construire le vocabulaire ; 
+#defaultdict pour construire l’index inversé ; 
+pandas #pour manipuler les données ; 
+spaCy #pour le prétraitement ; 
+scikit-learn #pour TF-IDF et le cosinus ; 
+rank-bm25 #pour BM25. 
